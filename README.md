@@ -1,2 +1,2 @@
 # Payment-ID-Generator
-Karbo Payment ID Generator
+MONCoin Payment ID Generator
